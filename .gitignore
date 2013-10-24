@@ -1,0 +1,9 @@
+Thumbs.db
+nohup.out
+classes/
+build/
+war/
+lib/
+target/
+.settings/
+
